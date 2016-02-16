@@ -1,0 +1,3 @@
+\contentsline {chapter}{\numberline {1}Introduction and General Information}{1}
+\contentsline {chapter}{\numberline {2}Applying Wikipedia Information for Various Tasks}{3}
+\contentsline {chapter}{\numberline {3}Technical how-to}{5}
